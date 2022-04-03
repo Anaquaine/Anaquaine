@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anaquaine
-- 👀 I’m interested in Actuarials, Machine Learning, Artificial Inteligence, Computer Vision
+- 👀 I’m interested Machine Learning, Artificial Inteligence, Computer Vision
 - 🌱 I’m currently learning Machine Learning, Artificial Inteligence, Computer Vision
 - 💞️ I’m looking to collaborate on Machine Learning, Artificial Inteligence, Computer Vision
 - 📫 How to reach me ...
